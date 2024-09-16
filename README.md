@@ -1,4 +1,4 @@
-# penuliscode
+# Hallo Semua!
 Perkenalkan nama saya Sopyan
 
 Saya seorang mahasiswa dan penggiat teknology,
